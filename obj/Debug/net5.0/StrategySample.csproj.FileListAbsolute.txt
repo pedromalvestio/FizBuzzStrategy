@@ -1,0 +1,16 @@
+C:\Users\pedro\Documents\StrategySample\bin\Debug\net5.0\StrategySample.exe
+C:\Users\pedro\Documents\StrategySample\bin\Debug\net5.0\StrategySample.deps.json
+C:\Users\pedro\Documents\StrategySample\bin\Debug\net5.0\StrategySample.runtimeconfig.json
+C:\Users\pedro\Documents\StrategySample\bin\Debug\net5.0\StrategySample.runtimeconfig.dev.json
+C:\Users\pedro\Documents\StrategySample\bin\Debug\net5.0\StrategySample.dll
+C:\Users\pedro\Documents\StrategySample\bin\Debug\net5.0\ref\StrategySample.dll
+C:\Users\pedro\Documents\StrategySample\bin\Debug\net5.0\StrategySample.pdb
+C:\Users\pedro\Documents\StrategySample\obj\Debug\net5.0\StrategySample.csprojAssemblyReference.cache
+C:\Users\pedro\Documents\StrategySample\obj\Debug\net5.0\StrategySample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Documents\StrategySample\obj\Debug\net5.0\StrategySample.AssemblyInfoInputs.cache
+C:\Users\pedro\Documents\StrategySample\obj\Debug\net5.0\StrategySample.AssemblyInfo.cs
+C:\Users\pedro\Documents\StrategySample\obj\Debug\net5.0\StrategySample.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Documents\StrategySample\obj\Debug\net5.0\StrategySample.dll
+C:\Users\pedro\Documents\StrategySample\obj\Debug\net5.0\ref\StrategySample.dll
+C:\Users\pedro\Documents\StrategySample\obj\Debug\net5.0\StrategySample.pdb
+C:\Users\pedro\Documents\StrategySample\obj\Debug\net5.0\StrategySample.genruntimeconfig.cache
